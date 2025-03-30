@@ -103,4 +103,6 @@ JwtAuthDemo/
 
 ## Lisans
 Bu proje MIT lisansı altındadır.
-
+## Programın Çalışma Görüntüleri
+![Postman](https://github.com/ugurarican/JwtAuthDemo/blob/master/jwt.png)
+![SQL](https://github.com/ugurarican/JwtAuthDemo/blob/master/sql%20jwt.png)
