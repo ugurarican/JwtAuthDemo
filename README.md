@@ -48,8 +48,8 @@ dotnet run
 - Body (JSON):
 ```json
 {
-  "email": "test@example.com",
-  "password": "123456"
+  "email": "ugur@example.com",
+  "password": "1996"
 }
 ```
 
@@ -58,7 +58,7 @@ dotnet run
 - Body (JSON):
 ```json
 {
-  "email": "test@example.com",
+  "email": "deneme@example.com",
   "password": "123456"
 }
 ```
